@@ -7,3 +7,5 @@
     - Singleton design pattern that ensures that even if multiple threads are running, only one instance is created.
 ## Strategy design pattern :
     - Strategy design pattern can be defined as a design pattern that defines a family of algorithms and put them into separate classes so that they can be changed at run-time.
+## Decorator design pattern :
+    - Decorator pattern attaches additional responsibilities to an object dynamically. Decorator provides a flexible alternative to subclassing for extending functionality.
