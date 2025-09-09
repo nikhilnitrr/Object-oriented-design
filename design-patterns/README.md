@@ -9,3 +9,10 @@
     - Strategy design pattern can be defined as a design pattern that defines a family of algorithms and put them into separate classes so that they can be changed at run-time.
 ## Decorator design pattern :
     - Decorator pattern attaches additional responsibilities to an object dynamically. Decorator provides a flexible alternative to subclassing for extending functionality.
+## Factory design pattern :
+    - Factory design pattern is used to separate an application's business logic from its object creation logic.
+    - The client delegates object creation to a factory, allowing the client to focus solely on business logic.
+    - There are three main types of factory design patterns:
+        + Simple Factory: A concrete factory class that creates only one type of object.
+        + Factory Method: An abstract factory class that delegates object creation to concrete subclasses, each creating one type of object.
+        + Abstract Factory: Similar to the factory method, but capable of creating families of related objects.
