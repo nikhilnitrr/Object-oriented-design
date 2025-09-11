@@ -16,3 +16,7 @@
         + Simple Factory: A concrete factory class that creates only one type of object.
         + Factory Method: An abstract factory class that delegates object creation to concrete subclasses, each creating one type of object.
         + Abstract Factory: Similar to the factory method, but capable of creating families of related objects.
+## Command design pattern :
+    - In command design pattern, the request or command sent by client is encapsulated as an object so that the command is undoable when needed. And command can be changed at runtime.
+## Observer design pattern :
+    - Observer design pattern is used when you want to alert or notify the observer if anything changes in the observable.
