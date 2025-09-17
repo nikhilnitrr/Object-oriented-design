@@ -23,3 +23,6 @@
 ## Adapter design pattern :
     - The adapter design pattern allows objects with incompatible interfaces to work together by introducing an adapter that acts as a bridge between them
     - For example : Your latest code cannot use legacy code directly, hence you need an adapter so that your latest code can execute legacy code.
+## Facade design pattern :
+    - The facade design pattern provides simplified, unified interface to a client for interacting with complex sub-system. It hides the complexity of sub-system and preserves the principle of least knowledge.
+    - For example : When you turn on a computer system, you only have to press the start button. So, consider that there exist a facade with whom the client is interacting and the facade is interacting with complex sub-system like CPU, Memory, BIOS, Fan etc.
